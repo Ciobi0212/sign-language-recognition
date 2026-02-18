@@ -1,6 +1,6 @@
 # ASL Translator & Recognizer
 
-Welcome to the ASL Translator & Recognizer repository! This project is a result of our participation (team Signify) in the Hackathon InnovationLabs2024. It aims to bridge communication gaps by leveraging technology to interpret and translate American Sign Language (ASL).
+Welcome to the ASL Translator & Recognizer repository! This project is a demonstrative demo as a result of our participation (team Signify) in the Hackathon InnovationLabs2024.
 
 ## About the Project
 
@@ -13,4 +13,3 @@ This repository is divided into two main parts:
 3. **ASL Recognizer**: An application that can recognize ASL alphabet signs through a webcam.
 ![video-recog](https://github.com/Ciobi0212/sign-language-recognition/assets/147515963/002a590f-2bf7-43e3-95d4-63c0169c1d05)
 
-![1](https://github.com/Ciobi0212/sign-language-recognition/assets/147515963/630d09d3-a7bc-4d92-8d7a-b52f6cfebb22)
